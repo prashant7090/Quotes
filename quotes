@@ -8,3 +8,7 @@
 
 “It is better to be hated for what you are than to be loved for what you are not.” 
 ― André Gide, Autumn Leaves
+
+Mutability is Ok, Sharing is Nice, shared mutability is devils work.
+
+Friends don't let friends do shared mutation.
